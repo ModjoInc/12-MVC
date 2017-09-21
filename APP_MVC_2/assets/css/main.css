@@ -48,6 +48,7 @@
 		-webkit-text-size-adjust: none;
 	}
 
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -3865,3 +3866,10 @@
 		}
 
 	}
+
+.habibPhoto {
+  /*width: 3vw;*/
+  height: 8vh;
+  border-radius: 50%;
+  vertical-align: middle;
+}
